@@ -1,0 +1,54 @@
+/* google fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Oswald:wght@400;500;600;700&display=swap');
+
+:root{
+    --head: 'Oswald', sans-serif;
+    --body: 'Open Sans', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var(--body);
+}
+.form-control,.form-select{
+    font-size: 14px;
+    padding: 8px 16px;
+}
+.form-control:focus,.form-select:focus{
+    box-shadow: none;
+}
+form{
+    padding: 1rem;
+}
+
+
+/* dashboard */
+#home .card{
+    margin: 1rem;
+    padding: 1rem;
+    border: none;
+    background: whitesmoke;
+    position: relative;
+}
+#home .card span{
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    color: rgb(0, 255, 0);
+}
+
+/* datainfo */
+#data{
+    padding: 1.5rem 2rem;
+}
+#data div{
+    margin-bottom: 2rem;
+}
+.alert{
+    position: absolute;
+    width: 100%;
+}

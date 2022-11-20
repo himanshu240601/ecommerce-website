@@ -1,0 +1,9 @@
+#checkout{
+    padding: 2rem 0;
+}
+.form-control:focus,.form-select:focus{
+    box-shadow: none;
+}
+.btn-danger{
+    padding: 8px 32px;
+}

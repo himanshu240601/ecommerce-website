@@ -29,10 +29,11 @@ It has two modules:
 ## Get Started
 
 <p>**Step 1.** Download & Install XAMPP (if not already installed).</p>
-<p>**Step 2.** Go to directory.</p>
+<p>**Step 2.** Go to directory.
 ```
 C:\xampp\htdocs
 ```
+</p>
 <p>**Step 3.** Create a folder, then clone this repository.</p>
 <p>**Step 4.** Open XAMPP, and start Apache and MySql module.</p>
 <p>**Step 5.** Click on Admin, next to MySql.</p>

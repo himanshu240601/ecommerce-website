@@ -8,6 +8,7 @@
 - MySQL
 
 ## Screenshots
+<p>
 <img src="project_images/ecom project (1).png" height=200/>
 <img src="project_images/ecom project (2).png" height=200/>
 <img src="project_images/ecom project (3).png" height=200/>
@@ -16,6 +17,7 @@
 <img src="project_images/ecom project (6).png" height=200/>
 <img src="project_images/ecom project (7).png" height=200/>
 <img src="project_images/ecom project (8).png" height=200/>
+</p>
 
 ## Description
 

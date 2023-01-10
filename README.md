@@ -9,9 +9,7 @@
 
 ## Screenshots
 <p>
-<div style="background: grey; padding: 1rem">
 <img src="project_images/ecom project (1).png" height=200/>
-</div>
 <img src="project_images/ecom project (2).png" height=200/>
 <img src="project_images/ecom project (3).png" height=200/>
 <img src="project_images/ecom project (4).png" height=200/>
@@ -29,3 +27,4 @@ It has two modules:
 - User Module
 
 ## Get Started
+

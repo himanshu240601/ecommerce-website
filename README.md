@@ -40,4 +40,4 @@ C:\xampp\htdocs
 ```
 localhost/<folder_name>/ecommerce-website/user/
 ```
-### Done!! 🥳
+### Done!! 🙌

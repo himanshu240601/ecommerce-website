@@ -40,4 +40,6 @@ C:\xampp\htdocs
 ```
 localhost/<folder_name>/ecommerce-website/user/
 ```
+**NOTE** folder_name is the name of folder created in htdocs.
+<br>
 ### Done!! 😄

@@ -1,11 +1,21 @@
 # Stylin E-Commerce Website
 
-# Created With
+## Created With
 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" height=24 width=24/>HTML, CSS
+- HTML, CSS
 - JavaScript
 - PHP
 - MySQL
+
+## Screenshots
+<img src="project_images/ecom project (1).png" height=200/>
+<img src="project_images/ecom project (2).png" height=200/>
+<img src="project_images/ecom project (3).png" height=200/>
+<img src="project_images/ecom project (4).png" height=200/>
+<img src="project_images/ecom project (5).png" height=200/>
+<img src="project_images/ecom project (6).png" height=200/>
+<img src="project_images/ecom project (7).png" height=200/>
+<img src="project_images/ecom project (8).png" height=200/>
 
 ## Description
 
@@ -14,6 +24,4 @@ It has two modules:
 - Admin Module
 - User Module
 
-### Admin Module
-
-The admin module's main function is to add or remove products or offers and, to manage the orders. All the products data is shown in the admin's dashboard alongwith some analytics. 
+## Get Started

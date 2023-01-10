@@ -1,13 +1,11 @@
 # Stylin E-Commerce Website
 
 # Created With
-[![stability][0]][1]
-<!-- [![HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
-<!-- [![CSS]()](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript]()](https://www.javascript.com/)
-[![PHP]()](https://www.php.net/)
-[![MySQL]()](https://www.mysql.com/)
-[![BootStrap](https://getbootstrap.com/)](https://getbootstrap.com/) -->
+
+- HTML, CSS
+- JavaScript
+- PHP
+- MySQL
 
 ## Description
 

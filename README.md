@@ -1,13 +1,13 @@
-# Stylin E-Commerce Website
+# Stylin E-Commerce Website 🛒
 
-## Created With
+## Created With 
 
 - HTML, CSS
 - JavaScript
 - PHP
 - MySQL
 
-## Screenshots
+## Screenshots 
 <p>
 <img src="project_images/ecom project (1).png" height=200/>
 <img src="project_images/ecom project (2).png" height=200/>
@@ -29,16 +29,17 @@ It has two modules:
 ## Get Started
 
 **Step 1.** Download & Install XAMPP (if not already installed).<br/>
-**Step 2.** Go to directory.
+**Step 2.** Go to htdocs directory.
 ```
 C:\xampp\htdocs
 ```
-**Step 3.** Create a folder, then clone this repository.<br/>
+**Step 3.** Create a folder inside htdocs, then clone this repository inside that folder.<br/>
 **Step 4.** Open XAMPP, and start Apache and MySql module.<br/>
-**Step 5.** Click on Admin, next to MySql.<br/>
+**Step 5.** Click on Admin, next to MySql to open mysql dashboard.<br/>
 **Step 6.** Create a database and name it "stylin_data".<br/>
 **Step 7.** Import the file from stylin_db_back folder inside project directory to database.<br/>
 **Step 8.** Paste this url into the browser.
 ```
 localhost/<folder_name>/ecommerce-website/user/
 ```
+Done!!🥳

@@ -26,17 +26,17 @@ It has two modules:
 
 ## Get Started
 
-**1.** Download & Install XAMPP (if not already installed).
-**2.** Go to htdocs directory.
+1. Download & Install XAMPP (if not already installed).
+2. Go to htdocs directory.
 ```
 C:\xampp\htdocs
 ```
-**3.** Create a folder (i.e. folder_name) inside htdocs, then clone the repository inside that folder.
-**4.** Open XAMPP, and start Apache and MySql module.
-**5.** Click on Admin, next to MySql to open mysql dashboard.
-**6.** Create a database and name it "stylin_data".
-**7.** Click on import and select the file in stylin_db_backup folder.
-**8.** Paste this url into the browser.
+3. Create a folder (i.e. folder_name) inside htdocs, then clone the repository inside that folder.
+4. Open XAMPP, and start Apache and MySql module.
+5. Click on Admin, next to MySql to open mysql dashboard.
+6. Create a database and name it "stylin_data".
+7. Click on import and select the file in stylin_db_backup folder.
+8. Paste this url into the browser.
 ```
 localhost/<folder_name>/ecommerce-website/user/
 ```

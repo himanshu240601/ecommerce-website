@@ -6,7 +6,7 @@
 [![JavaScript]()](https://www.javascript.com/)
 [![PHP]()](https://www.php.net/)
 [![MySQL]()](https://www.mysql.com/)
-[![BootStrap]("hi")](https://getbootstrap.com/)
+[![BootStrap](https://getbootstrap.com/)](https://getbootstrap.com/)
 
 ## Description
 

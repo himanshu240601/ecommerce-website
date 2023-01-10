@@ -33,12 +33,12 @@ It has two modules:
 ```
 C:\xampp\htdocs
 ```
-**Step 3.** Create a folder, then clone this repository.
-**Step 4.** Open XAMPP, and start Apache and MySql module.
-**Step 5.** Click on Admin, next to MySql.
-**Step 6.** Create a database and name it "stylin_data".
-**Step 7.** Import the file from stylin_db_back folder to database.
+**Step 3.** Create a folder, then clone this repository.<br/>
+**Step 4.** Open XAMPP, and start Apache and MySql module.<br/>
+**Step 5.** Click on Admin, next to MySql.<br/>
+**Step 6.** Create a database and name it "stylin_data".<br/>
+**Step 7.** Import the file from stylin_db_back folder inside project directory to database.<br/>
 **Step 8.** Paste this url into the browser.
 ```
-localhost/< Folder-Name >/ecommerce-website/user/
+localhost/<folder_name>/ecommerce-website/user/
 ```

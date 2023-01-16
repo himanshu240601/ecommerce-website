@@ -336,7 +336,4 @@ h2.text-center{
     #products .col-md-4 {
         padding: 0.75rem;
     }
-    #brands .row{
-       overflow: scroll;
-    }
 }

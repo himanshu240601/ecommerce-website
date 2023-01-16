@@ -2,6 +2,8 @@ $(document).ready(function(){
     $('.slider').slick({
         dots: true,
         infinite: false,
+        prevArrow: null,
+        nextArrow: null,
         speed: 300,
         slidesToShow: 4,
         slidesToScroll: 4,

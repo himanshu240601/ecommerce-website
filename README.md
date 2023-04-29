@@ -1,6 +1,6 @@
 # Stylin E-Commerce Website 🛒
 
-Demo Link - https://himanshu240601.github.io/ecommerce-website/
+Demo Link - https://himanshu240601.github.io/ecommerce-website/ (this demo is without php and mysql)
 
 ## Created With 
 
